@@ -7,7 +7,6 @@ Website for current World Records: https://mkwrs.com/mkworld
 Youtube Channel for Records: https://www.youtube.com/@MKWorldRecords
 
 ---
-
 This repository is a collection of important resources [Mario Kart World](https://en.wikipedia.com/wiki/Mario_Kart_World) Time Trials. 
 
 This includes routes, strategies and strategy ideas for each individual stage. 
@@ -26,7 +25,7 @@ If you want to **submit a strategy**, create an issue and choose "Strategy Idea"
 ## Techniques:
 This folder contains descriptions of all the different tech used throughout time trials. 
 
-There is one document for all tech, and one for each that goes into more detail about it.
+There is one document for all tech, and one for each tech that goes into more detail.
 
 ## Resources:
 This folder contains resources like character/vehicle stats.
