@@ -4,6 +4,10 @@ Time Trials Discord: https://discord.gg/6gDAPxvqh7
 
 Website for current World Records: https://mkwrs.com/mkworld
 
+Youtube Channel for Records: https://www.youtube.com/@MKWorldRecords
+
+---
+
 This repository is a collection of important resources [Mario Kart World](https://en.wikipedia.com/wiki/Mario_Kart_World) Time Trials. 
 
 This includes routes, strategies and strategy ideas for each individual stage. 
