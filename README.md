@@ -1,6 +1,7 @@
 # Mario Kart World - Time Trials Resources
 
 Time Trials Discord: 
+Website for current World Records: https://mkwrs.com/mkworld
 
 This repository is a collection of important resources [Mario Kart World](https://en.wikipedia.com/wiki/Mario_Kart_World) Time Trials. 
 
