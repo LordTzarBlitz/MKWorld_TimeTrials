@@ -1,6 +1,6 @@
 # Boo Cinema - Strategies and Strat Ideas
 
-(Note: If you want to submit your own strats, create an issue and select "Strategy Idea")own strats, create an issue and select "Strategy Idea")
+(Note: If you want to submit your own strats, create an issue and select "Strategy Idea")
 
 ---
 ## CONFIRMED AND UTILISED
