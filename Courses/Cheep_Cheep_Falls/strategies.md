@@ -20,11 +20,12 @@ At the start of Cheep Cheep Falls, instead of going down the route as normal, pe
 Issues: This trick is HARD and inconsistent. You need a lot of precise and quick inputs to be even slightly faster. Also, you miss out on one coin on the bridge, but this loss is negligible. 
 
 
-### Temple Skip (by K1ngGr33n)
-Instead of going around the temple to charge a UMT, cross the temple completely 
+
+### Shrine Skip (by K1ngGr33n)
+Instead of going around the shrine to charge a UMT, cross the temple completely 
 
 1. Start a Right Drift after landing in the water.
-2. Shroom through the temple at the end of the track, while holding full right.
+2. Shroom through the shrine at the end of the track, while holding full right.
 
 Note: Only works in combination with Tarzan Skip. You probably need more Handling than what Bowser Reel Racer has.
 
