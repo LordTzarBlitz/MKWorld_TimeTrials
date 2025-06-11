@@ -21,7 +21,7 @@ Issues: This trick is HARD and inconsistent. You need a lot of precise and quick
 
 
 
-### Shrine Skip (by K1ngGr33n)
+### Shrine Skip
 Instead of going around the shrine to charge a UMT, cross the temple completely 
 
 1. Start a Right Drift after landing in the water.
