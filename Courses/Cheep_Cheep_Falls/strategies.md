@@ -45,4 +45,4 @@ Instead of going into the slow water, wall jump, then jump along trees to preser
 3. Set up to land on a patch of grass above the normal shroom shortcut.
 4. Drift through the grass and fall back down, facing the ravine exit. Do an air trick to help realign and for a boost.
 
-Issues: UNFATHOMABLY FUCKING HARD. If someone gets 10 of these in a row Zaqua will probably cry tears of joy, and Calcaire will enter eternal depression
+Issues: UNFATHOMABLY FUCKING HARD. If someone gets even one of these Zaqua will probably cry tears of joy, and Calcaire will enter eternal depression
