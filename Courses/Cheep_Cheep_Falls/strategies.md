@@ -19,6 +19,15 @@ At the start of Cheep Cheep Falls, instead of going down the route as normal, pe
 
 Issues: This trick is HARD and inconsistent. You need a lot of precise and quick inputs to be even slightly faster. Also, you miss out on one coin on the bridge, but this loss is negligible. 
 
+
+### Temple Skip (by K1ngGr33n)
+Instead of going around the temple to charge a UMT, cross the temple completely 
+
+1. Start a Right Drift after landing in the water.
+2. Shroom through the temple at the end of the track, while holding full right.
+
+Note: Only works in combination with Tarzan Skip. You probably need more Handling than what Bowser Reel Racer has.
+
 ---
 ## CONFIRMED, BUT OBSOLETE
 
@@ -27,3 +36,12 @@ Issues: This trick is HARD and inconsistent. You need a lot of precise and quick
 
 ---
 ## (CURRENTLY) IMPOSSIBLE
+### Tarzan Skip (by Zaqua)
+Instead of going into the slow water, wall jump, then jump along trees to preserve your speed. Also saves a shroom for Temple Skip.
+
+1. Perform a Wall Jump off the left of the ravine, then navigate to the hanging tree branch.
+2. With precision, Pole Jump between the branches. 
+3. Set up to land on a patch of grass above the normal shroom shortcut.
+4. Drift through the grass and fall back down, facing the ravine exit. Do an air trick to help realign and for a boost.
+
+Issues: UNFATHOMABLY FUCKING HARD. If someone gets 10 of these in a row Zaqua will probably cry tears of joy, and Calcaire will enter eternal depression
