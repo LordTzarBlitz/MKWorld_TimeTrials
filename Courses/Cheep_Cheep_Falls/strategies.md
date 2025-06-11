@@ -34,7 +34,7 @@ Issues: VERY HARD. If someone ever gets this 3/3 Zaqua will probably cry tears o
 
 
 
-### Shrine SKIP [OUTDATED MAYBE]
+### Shrine Skip [OUTDATED MAYBE]
 Instead of going around the shrine to charge a UMT, cross the temple completely 
 
 1. Start a Right Drift after landing in the water.
