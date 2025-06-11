@@ -4,6 +4,17 @@
 
 ---
 ## CONFIRMED AND UTILISED
+### Ending Ring Cut
+Instead of following the main route, trick off of the rings and do a wall jump.
+
+1. Start a Charge Jump and release it right before the gap.
+2. Wall Jump off the cloud, then off the Wall.
+3. Trick Off the last ring.
+
+Note: MT is faster than a CJ, but harder to pull off.
+
+
+
 ### Ending Box Cut (by cyndaquil_x on Twitter/X)
 After the Ring Cut, maneuver onto the off-road and hit a box on it to skip the turn.
 
