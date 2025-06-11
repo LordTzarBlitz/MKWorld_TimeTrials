@@ -9,7 +9,7 @@
 ## CONFIRMED, NOT YET UTILISED
 
 ### Kings Turn (by K1ngGr33n)
-Description: At the start of Cheep Cheep Falls, instead of going down the route as normal, perform a series of precise tricks on the left rail to take the turn sharper.
+At the start of Cheep Cheep Falls, instead of going down the route as normal, perform a series of precise tricks on the left rail to take the turn sharper.
 
 0. Perform 2 left tricks in quick succession (only if you approach from the right) 
 1. Enter the rail as far left as you possibly can, then jump the moment you get on it. 
