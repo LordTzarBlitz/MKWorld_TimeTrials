@@ -16,7 +16,7 @@ Issues: You need the perfect amount of airtime to land early, slow down, and sto
 ---
 ## CONFIRMED, NOT YET UTILISED
 ### Zaquas Wall (by Zaqua)
-After the standart route, instead of drifting along the route as usual, jump down and ride the inner wall of the track to skip the turn.
+After the standart route, instead of drifting along the turn as usual, jump down and ride the inner wall of the track to skip the turn.
 
 0. Perform the normal shroom shortcut.
 1. Do the left tick early to land back on the road and get a good alignment.
