@@ -29,4 +29,4 @@ What about your strategy is better than the current WR route? If you’re unsure
 What issues does your strategy have (like missing coins, having a bad alignment afterwards etc.)? If you’re unsure or there is nothing to mention, type "None". *THIS IS IMPORTANT!*
 
 **Additional notes (optional)**
-Add any other notes strategy idea here.
+Add any other notes about your strategy idea here.
