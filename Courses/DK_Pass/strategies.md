@@ -22,6 +22,8 @@ Issues: That god damn wrench, all my homes hate wrench
 
 **Path 2:** (Pole Jump Skip)
 
+Instead of going around the wall and patch of snow, use a Wall Ride chained into a Pole Jump to skip the snow patch entirely.
+
 1. Jump off and ride the inner wall of the course.
 2. Wall Jump and maneuver towards the light pole. 
 3. Spam left air tricks to realign towards the Tree Shortcut. If it's not enough, throw in a drift as well. 
