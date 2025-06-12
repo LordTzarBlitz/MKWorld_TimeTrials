@@ -11,7 +11,7 @@ assignees: ''
 Add all stages that your idea applies to. If you don't know yet, write "N/A".
 
 **Who found the strategy?**
-If there are multiple people, or multiple approaches found by different people, add all of them.
+If there are multiple people, add all of them. (Also add them if they found a different approach, but didn’t contribute to the main strategy.)
 
 **Describe the Strategy Idea you are submitting.**
 A clear and concise description of what you have in mind.
